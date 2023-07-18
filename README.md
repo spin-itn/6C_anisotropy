@@ -2,7 +2,7 @@
 The code provides an example of real data to estimate the phase velocity from one earthquake. It is used to analyze the seismic anisotropy from 6C observations based on the proposed new method.
 
 The associated theory paper "Le Tang, Heiner Igel, and Jean-Paul Montagner. Single-Point Dispersion Measurement of Surface Waves Combining Translation, Rotation and Strain in Weakly
-Anisotropic Media: Theory" can be found on GJI.
+Anisotropic Media: Theory" can be found on GJI (2023).
 
 "Rot_x.mseed, Rot_y.mseed, Rot_z.mseed, Tra_x.mseed, Tra_y.mseed, Tra_z.mseed" : 6C data
 
