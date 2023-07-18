@@ -12,3 +12,5 @@ Southern California from rotational observations' by Le Tang, Heiner Igel and Je
 "california_data.ipynb " is used to retrieve the earthquke 6C data based on ADR (Array Derived Rotation) method.
 
 "california_code.m, cwt_cmor.m, est_azimuth.m est_disp.m " are used to estimate the phase velocity and azimuth.
+
+This work is funded by the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No 955515.
