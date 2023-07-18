@@ -3,6 +3,8 @@ The code provides an example of real data to estimate the phase velocity from on
 
 The associated theory paper "Le Tang, Heiner Igel, and Jean-Paul Montagner. Single-Point Dispersion Measurement of Surface Waves Combining Translation, Rotation and Strain in Weakly
 Anisotropic Media: Theory" can be found on GJI (2023).
+The real data are from seisimc arrays in Southern California region and the associated paper 'Anisotropy and deformation processes in
+Southern California from rotational observations' by Le Tang, Heiner Igel and Jean-Paul Montagner, will be submitted to a Journal soon (2023).
 
 "Rot_x.mseed, Rot_y.mseed, Rot_z.mseed, Tra_x.mseed, Tra_y.mseed, Tra_z.mseed" : 6C data
 
