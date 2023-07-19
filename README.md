@@ -5,7 +5,7 @@ This is a static version of the code. For an up-to-date version, please check th
 The code provides an example of real data to estimate the phase velocity from one earthquake. It is used to analyze the seismic anisotropy from 6C observations based on the proposed new method.
 
 The associated theory paper "Le Tang, Heiner Igel, and Jean-Paul Montagner. Single-Point Dispersion Measurement of Surface Waves Combining Translation, Rotation and Strain in Weakly
-Anisotropic Media: Theory" can be found on GJI (2023).
+Anisotropic Media: Theory" can be found on GJI (2023) (DOI: 10.1093/gji/ggad199).
 
 The real data are from seisimc arrays in Southern California region and the associated paper 'Anisotropy and deformation processes in
 Southern California from rotational observations' by Le Tang, Heiner Igel and Jean-Paul Montagner, will be submitted to a Journal soon (2023).
